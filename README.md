@@ -23,7 +23,11 @@ The output Excel file will contain the analysis results, including word count, u
 
 ### Dependencies
 Python 3
+
 spaCy
+
 pandas
+
 BeautifulSoup (bs4)
+
 requests
